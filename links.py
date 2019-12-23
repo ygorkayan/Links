@@ -1,5 +1,7 @@
 import webbrowser
 
+#teste
+
 links = [
     "https://get.adobe.com/br/reader/",
     "https://www.ccleaner.com/defraggler/download",
